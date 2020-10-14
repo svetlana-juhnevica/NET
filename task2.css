@@ -1,0 +1,18 @@
+﻿h1
+{
+text-align:center;
+}
+div.table1 {
+    
+    float:left;
+    width:33.3%
+    
+}
+div.table2 {
+    float:right;
+    width:33.3%
+}
+div.table3 {
+    float:left;
+    width:33.3%
+}
